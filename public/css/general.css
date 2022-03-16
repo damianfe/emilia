@@ -1,0 +1,26 @@
+body{
+  font-family: 'Open Sans';
+}
+
+li {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+h1, h2{
+    text-transform: uppercase;
+    font-family: 'Raleway';
+}
+h1{
+  font-size: 64px;
+}
+
+header nav ul li {
+  text-transform: uppercase;
+}
+
+header nav ul{
+  padding:0;
+}
